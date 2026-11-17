@@ -31,3 +31,12 @@ Get-NetIPConfiguration
 ## 3. Eigene Erkenntnisse
 
 Hier dokumentiere ich praktische Testergebnisse, aufgetretene Fehler und deren Lösungen.
+
+## 4. Das hier ist ein TEST
+
+hier könnte ihre Anzeige stehen.
+
+```powershell
+Get-NetIPConfiguration
+```
+
